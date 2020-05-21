@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502856739910",
+    "firebase_url": "https://rumou-c3430.firebaseio.com",
+    "project_id": "rumou-c3430",
+    "storage_bucket": "rumou-c3430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502856739910:android:1bc0a7d1e4bdc0488dee47",
+        "android_client_info": {
+          "package_name": "com.jo.shapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502856739910-oni4j8flqctojga96uo83iq9jm94h1a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZaVakqNDuirsSf15d_bUsExD9i3nFGt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502856739910-oni4j8flqctojga96uo83iq9jm94h1a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
