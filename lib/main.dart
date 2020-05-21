@@ -13,6 +13,10 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    // It's preferable to use Multiprovider when you have multiple providers and put them at the
+    //root of your project so you can access them every where
+    // Nesting them down the widget tree like you did might not be a good idea
+    
     return MultiProvider(
       providers: [
         ChangeNotifierProvider<CategoryProvider>.value(
